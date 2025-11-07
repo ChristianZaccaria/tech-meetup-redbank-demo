@@ -12,5 +12,5 @@ Red Bank Demo for Waterford Tech Meetup. This whole demo runs locally on your co
 1. Run: `cd whisper.cpp`
 2. Run: `uvicorn whisper_service:app --host 0.0.0.0 --port 8000`
 
-## Run through the Jupyter Notebook
+## 4. Run through the Jupyter Notebook
 1. Open the `redbank-demo-notebook.ipynb` notebook and run through each cell to experiment.

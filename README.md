@@ -14,3 +14,6 @@ Red Bank Demo for Waterford Tech Meetup. This whole demo runs locally on your co
 
 ## 4. Run through the Jupyter Notebook
 1. Open the `redbank-demo-notebook.ipynb` notebook and run through each cell to experiment.
+
+# Demo on YouTube
+**YouTube Link:** https://youtu.be/GYtG8ic7XJ4
